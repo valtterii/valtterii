@@ -5,9 +5,8 @@
 - APIs
 - Front-end in general
 
-[My Linkedin](https://www.linkedin.com/in/valtteri-karppinen/)
+<!-- [My Linkedin](https://www.linkedin.com/in/valtteri-karppinen/)
 
-<!--
 **valtterii/valtterii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
