@@ -5,7 +5,7 @@
 - APIs
 - Front-end in general
 
-![Linkedin logo](https://cdn-icons-png.flaticon.com/512/174/174857.png) [My Linkedin page](https://www.linkedin.com/in/valtteri-karppinen/)
+[My Linkedin](https://www.linkedin.com/in/valtteri-karppinen/)
 
 <!--
 **valtterii/valtterii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
